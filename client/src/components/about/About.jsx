@@ -28,7 +28,8 @@ const About = () => {
             <Banner/>
             <Wrapper>
                 <Typography variant="h3">Adarsh Gupta here</Typography>
-                <Text variant="h5">I'm a B.Tech Graduate in Information Technology Branch 
+                <Text variant="h5">I'm a B.Tech Graduate in Information Technology Branch.
+                                                                                         <br/>
                 A beginner in MERN stack development field & interested to explore more in this Technology.
                      here is my github profile <br />
                      
