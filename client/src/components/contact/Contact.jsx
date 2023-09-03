@@ -30,7 +30,7 @@ const Contact = () => {
                 <Typography variant="h3">Getting in touch is easy!</Typography>    
                 <Text variant="h5">
                     Reach out to me on
-                    <Link href="https://www.instagram.com/adarsh9558/" color="inherit" target="_blank">
+                    <Link href="https://www.linkedin.com/in/adarsh-gupta-ba7a571b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BqLi17pL%2FSWmoAFNi7rdsHA%3D%3D" color="inherit" target="_blank">
                         <Instagram/>
                     </Link>
                     or send me an Email 

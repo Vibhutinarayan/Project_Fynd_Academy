@@ -28,22 +28,22 @@ const About = () => {
             <Banner/>
             <Wrapper>
                 <Typography variant="h3">Adarsh Gupta here</Typography>
-                <Text variant="h5">I'm a Btech Graduate in Information Technology branch 
-                have beginner knowledge in MERN stack development field & interested to work in this field
-                     here is my githubID <br />
+                <Text variant="h5">I'm a B.Tech Graduate in Information Technology Branch 
+                A beginner in MERN stack development field & interested to explore more in this Technology.
+                     here is my github profile <br />
                      
                     <Box component="span" style={{ marginLeft: 5 }}>
                         <Link href="https://github.com/Vibhutinarayan" color="inherit" target="_blank"><GitHub /></Link>
                     </Box>
                 </Text>
                 <Text variant="h5">
-                    Need something built or simply want to have chat? Reach out to me on
+                    here is my social media account
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://www.instagram.com/adarsh9558/" color="inherit" target="_blank">
+                        <Link href="https://www.linkedin.com/in/adarsh-gupta-ba7a571b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BqLi17pL%2FSWmoAFNi7rdsHA%3D%3D" color="inherit" target="_blank">
                             <Instagram />
                         </Link>
                     </Box>  
-                        or send me an Email 
+                        or on Email 
                         <Link href="mailto:adarshgupta468@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
                             <Email />
                         </Link>.
